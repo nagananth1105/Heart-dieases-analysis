@@ -1,5 +1,4 @@
-# Heart-dieases-analysis
-using  google colab
+
 # Heart Disease Analysis
 
 ## Overview
