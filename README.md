@@ -1,5 +1,6 @@
-
 # Heart Disease Analysis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/Heart-diseases-analysis/blob/main/your-notebook.ipynb)
 
 ## Overview
 Heart disease is a leading cause of mortality worldwide. This project aims to analyze heart disease datasets using data science and machine learning techniques to extract valuable insights and predict heart disease risk.
@@ -15,7 +16,7 @@ Heart disease is a leading cause of mortality worldwide. This project aims to an
 The dataset used for this project is the **Heart Disease Dataset** from Kaggle. It contains various attributes which are crucial in determining heart disease risk.
 
 ### Dataset Link
-[Heart Disease Dataset - Kaggle]-https://www.kaggle.com/code/desalegngeb/heart-disease-predictions
+[Heart Disease Dataset - Kaggle]https://www.kaggle.com/code/desalegngeb/heart-disease-predictions
 
 ### Dataset Columns
 The dataset consists of the following features:
